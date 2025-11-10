@@ -56,6 +56,7 @@ This document contains useful resources for AEM Edge Delivery Services developme
 - [OpTel Explorer Docs](https://www.aem.live/docs/optel-explorer)
 - [LHS Calculator](https://googlechrome.github.io/lighthouse/scorecalc/)
 - [PSI Home](https://pagespeed.web.dev/)
+- [Deep PSI](https://labs.aem.live/tools/deep-psi/deep-psi.html)
 
 ### Bookmarklets
 
