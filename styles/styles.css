@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --white: #ffffff;
+  --white: #fff;
   --background-color: var(--white);
   --light-color: #ecf3fd;
   --dark-color: #505050;
