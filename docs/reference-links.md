@@ -2,6 +2,34 @@
 
 This document contains useful resources for AEM Edge Delivery Services development.
 
+## What is EDS?
+
+- https://www.aem.live/docs/faq
+- https://www.aem.live/developer/tutorial
+
+---
+
+## EDS Architecture
+
+- https://www.aem.live/docs/architecture
+- https://www.aem.live/docs/staging
+- https://www.aem.live/docs/security
+- https://www.aem.live/docs/global
+- https://www.aem.live/developer/anatomy-of-a-project
+- https://www.aem.live/docs/limits
+
+
+---
+
+## Authoring Approaches
+
+- https://www.aem.live/docs/authoring
+- https://www.aem.live/docs/aem-authoring
+- https://www.aem.live/docs/authoring-guide
+- https://www.aem.live/developer/byom
+
+---
+
 ## Dev Best Practices
 
 - https://www.aem.live/docs/dev-collab-and-good-practices
@@ -29,6 +57,22 @@ This document contains useful resources for AEM Edge Delivery Services developme
 
 ---
 
+## Advanced Topics & Patterns
+
+- https://www.aem.live/developer/importer
+- https://www.aem.live/docs/redirects
+- https://www.aem.live/docs/translation-and-localization
+- https://www.aem.live/developer/placeholders
+- https://www.aem.live/docs/repoless
+- https://www.aem.live/developer/indexing
+- https://www.aem.live/developer/sitemap
+- https://tools.aem.live/
+- https://www.aem.live/docs/custom-headers
+- https://www.aem.live/docs/authentication-setup
+- https://www.aem.live/docs/byo-cdn-setup
+- https://www.aem.live/docs/admin.html
+
+---
 
 ## Web Performance
 
